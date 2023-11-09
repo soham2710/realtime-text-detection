@@ -29,6 +29,12 @@ python real_time_text_detection.py
 
 6. The webcam or screen video feed will be displayed, and the recognized text will be overlaid in green color. Press 'q' to exit the program.
 
+Output:
+![image](https://github.com/soham2710/realtime-text-detection/assets/42056502/42c140d2-4b9f-4a75-b658-cffac18973f9)
+
+
+
+
 Features
 1. Real-time text detection from webcam or screen.
 2. Display recognized text in green color.
