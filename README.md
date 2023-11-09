@@ -64,10 +64,6 @@ The webcam or screen video feed will be displayed, and the recognized text will 
 
 You can customize the project by adjusting various parameters in the code, such as blur settings, text overlay position, and more, to suit your specific requirements.
 
-**License:**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 **Acknowledgments:**
 
 Thanks to the open-source community for the development of Python, OpenCV, and Tesseract OCR.
