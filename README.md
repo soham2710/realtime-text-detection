@@ -37,6 +37,19 @@ Output:
 
 
 
+
+
+![image](https://github.com/soham2710/realtime-text-detection/assets/42056502/cf20af09-50f3-45fa-95e0-d55fca4370c5)
+
+
+
+
+
+
+![image](https://github.com/soham2710/realtime-text-detection/assets/42056502/6de0a3a8-4e9b-47f4-978c-26161cc93f39)
+
+
+
 Features
 1. Real-time text detection from webcam or screen.
 2. Display recognized text in green color.
